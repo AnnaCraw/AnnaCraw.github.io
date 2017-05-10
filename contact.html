@@ -89,14 +89,19 @@
     <h3>Subscribe to our newsletter for the latest on our seasonal offerings and special events:</h3>
     <form action="join.html" method="POST">
         <div class="form-group">
-            <label for="name"></label> 
-            <input type="text" placeholder="Name" class="form-control"></input>
+            <form action="https://formspree.io/your@email.com"
+              method="POST">
+               <label for="name"></label> 
+            <input type="name"name="name" placeholder="Name" class="form-control"></input>
         </div>
         <div class="form-group">
             <label for="email"></label> 
             <input type="email" placeholder="Email" class="form-control" ></input>
         </div>
-        <div><button type="submit" class="submit">Submit</button></div>
+        <div><button type="submit" value="Send" class="submit">Submit</button></div>
+
+            </form>
+           
     </form>
 </div>
 
