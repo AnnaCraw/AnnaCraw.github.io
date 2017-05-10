@@ -144,7 +144,7 @@ background: #FEDB65;
     margin-top:-80px;
 }
 .coffeelist{
-    background:white;
+    background:rgba(255,255,255, 0.6);
     margin-top:98px;
     margin-left:35px;
 }
