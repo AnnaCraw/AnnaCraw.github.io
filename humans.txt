@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Anna Crawford> -- <designer>
 
 # THANKS
 
-    <name>
+    <Parkland College>
 
 # TECHNOLOGY COLOPHON
 
